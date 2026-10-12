@@ -1,0 +1,6 @@
+{
+  "name": "UniQ Fisioterapia e Pilates",
+  "description": "UniQ Fisioterapia e Pilates em Santa Maria - RS. Aulas de Pilates, Fisioterapia personalizada e qualidade de vida através do movimento em 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
